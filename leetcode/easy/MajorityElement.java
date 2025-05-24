@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/majority-element/description/
 // Problem: Majority Element
 // Difficulty: Easy
+// Tag: Array
 // Given an array of size n, find the majority element. The majority element is the element that appears more than n/2 times.
 
 import java.util.Arrays;
