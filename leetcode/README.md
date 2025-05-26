@@ -19,6 +19,8 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Greedy | [`BestTimeToBuyAndSellStock.java`](easy/BestTimeToBuyAndSellStock.java) |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, HashMap | [`TwoSum.java`](easy/TwoSum.java) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java) |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack, String | [`ValidParentheses.java`](leetcode/easy/ValidParentheses.java) |
+
 
 
 ---
