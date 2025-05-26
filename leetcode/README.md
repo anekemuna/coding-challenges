@@ -31,7 +31,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Array, Backtracking | [`CombinationSum.java`](leetcode/medium/CombinationSum.java) |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | Array | [`InsertInterval.java`](leetcode/medium/InsertInterval.java) |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting | [`MergeIntervals.java`](leetcode/medium/MergeIntervals.java) |
-| [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers | [`ThreeSum.java`](leetcode/medium/ThreeSum.java) |
+| [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers | [`ThreeSum.java`](medium/ThreeSum.java) |
 
 
 
