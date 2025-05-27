@@ -35,6 +35,8 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [3Sum](https://leetcode.com/problems/3sum/)                                                 | Medium     | Array, Two Pointers          | [`ThreeSum.java`](medium/ThreeSum.java)                                 |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                   | Medium     | Array, Two Pointers, Sorting | [`SortColors.java`](medium/SortColors.java)                             |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | Medium     | Array, Two Pointers          | [`ContainerWithMostWater.java`](medium/ContainerWithMostWater.java)     |
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Stack, Array | [`EvaluateReversePolishNotation.java`](medium/EvaluateReversePolishNotation.java) |
+
 
 ---
 
