@@ -19,6 +19,8 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy       | Array, HashMap          | [`TwoSum.java`](easy/TwoSum.java)                                       |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java)                 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | Easy       | Stack, String           | [`ValidParentheses.java`](easy/ValidParentheses.java)                   |
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Queue, Design | [`ImplementQueueUsingStacks.java`](easy/ImplementQueueUsingStacks.java) |
+
 
 ---
 
