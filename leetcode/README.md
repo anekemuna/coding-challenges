@@ -38,6 +38,12 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Stack, Array | [`EvaluateReversePolishNotation.java`](medium/EvaluateReversePolishNotation.java) |
 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | [`MinStack.java`](medium/MinStack.java) |
 
+---
+## Hard Problems
+
+| Problem                                                                                     | Difficulty | Tags                         | Solution File                                                           |
+| ------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ----------------------------------------------------------------------- |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack | [`TrappingRainWater.java`](hard/TrappingRainWater.java) |
 
 
 ---
