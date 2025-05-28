@@ -6,8 +6,6 @@
 // the product of all the elements of nums except nums[i].
 // The solution must be done without using division and in O(n) time.
 
-package leetcode.medium;
-
 import java.util.Arrays;
 
 public class ProductOfArrayExceptSelf {

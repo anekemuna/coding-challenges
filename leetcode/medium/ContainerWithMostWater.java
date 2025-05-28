@@ -6,7 +6,6 @@
 // n vertical lines are drawn. Find two lines that together with the x-axis form a container,
 // such that the container contains the most water.
 
-package leetcode.medium;
 public class ContainerWithMostWater {
 
     // Two-pointer approach

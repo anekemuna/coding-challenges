@@ -1,4 +1,3 @@
-package leetcode.medium;
 // https://leetcode.com/problems/evaluate-reverse-polish-notation/
 // Problem: Evaluate Reverse Polish Notation
 // Difficulty: Medium

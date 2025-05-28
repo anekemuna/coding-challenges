@@ -4,7 +4,7 @@
 // Tag: Array, Two Pointers, Sorting
 // Given an array with n objects colored red (0), white (1), or blue (2),
 // sort them in-place so that objects of the same color are adjacent.
-package leetcode.medium;
+
 import java.util.Arrays;
 
 public class SortColors {

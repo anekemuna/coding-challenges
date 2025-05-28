@@ -1,5 +1,3 @@
-package leetcode.medium;
-
 // https://leetcode.com/problems/insert-interval/
 // Problem: Insert Interval
 // Difficulty: Medium

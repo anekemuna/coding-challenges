@@ -1,5 +1,3 @@
-package leetcode.medium;
-
 // https://leetcode.com/problems/3sum/
 // Problem: 3Sum
 // Difficulty: Medium

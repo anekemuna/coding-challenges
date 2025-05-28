@@ -2,7 +2,7 @@
 // Problem: Min Stack
 // Difficulty: Medium
 // Tag: Stack, Design
-package leetcode.medium;
+
 import java.util.Stack;
 
 public class MinStack {

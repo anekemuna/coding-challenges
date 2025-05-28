@@ -6,8 +6,6 @@
 // return all unique combinations of candidates where the chosen numbers sum to target.
 // The same number may be chosen unlimited times.
 
-package leetcode.medium;
-
 import java.util.ArrayList;
 import java.util.List;
 

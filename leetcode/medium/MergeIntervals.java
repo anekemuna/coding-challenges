@@ -1,5 +1,3 @@
-package leetcode.medium;
-
 // https://leetcode.com/problems/merge-intervals/
 // Problem: Merge Intervals
 // Difficulty: Medium
