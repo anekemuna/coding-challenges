@@ -44,6 +44,8 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | Problem                                                                                     | Difficulty | Tags                         | Solution File                                                           |
 | ------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ----------------------------------------------------------------------- |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack | [`TrappingRainWater.java`](hard/TrappingRainWater.java) |
+| [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Stack, Recursion, Math, String | [`BasicCalculator.java`](hard/BasicCalculator.java) |
+
 
 
 ---
@@ -54,6 +56,6 @@ Each Java file contains a `main()` method for quick testing.
 To run a solution, compile and run the corresponding file. For example:
 
 ```bash
-javac leetcode/easy/MajorityElement.java
-java leetcode.easy.MajorityElement
+javac MajorityElement.java
+java MajorityElement
 ```
