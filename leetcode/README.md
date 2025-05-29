@@ -45,6 +45,8 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | ------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ----------------------------------------------------------------------- |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack | [`TrappingRainWater.java`](hard/TrappingRainWater.java) |
 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Stack, Recursion, Math, String | [`BasicCalculator.java`](hard/BasicCalculator.java) |
+| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Stack, Array, Monotonic Stack | [`LargestRectangleHistogram.java`](hard/LargestRectangleHistogram.java) |
+
 
 
 
