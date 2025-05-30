@@ -18,6 +18,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java)                 |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)       | Easy       | Stack, Queue, Design    | [`ImplementQueueUsingStacks.java`](easy/ImplementQueueUsingStacks.java) |
 | [Majority Element](https://leetcode.com/problems/majority-element/)                               | Easy       | Array                   | [`MajorityElement.java`](easy/MajorityElement.java)                     |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                   | Easy       | Linked List              | [`MergeTwoSortedLists.java`](easy/MergeTwoSortedLists.java)            |
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy       | Array, HashMap          | [`TwoSum.java`](easy/TwoSum.java)                                       |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | Easy       | Stack, String           | [`ValidParentheses.java`](easy/ValidParentheses.java)                   |
 
