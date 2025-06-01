@@ -20,6 +20,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                             | Easy       | Linked List, Two Pointers, HashSet | [`LinkedListCycle.java`](easy/LinkedListCycle.java)                     |
 | [Majority Element](https://leetcode.com/problems/majority-element/)                               | Easy       | Array                   | [`MajorityElement.java`](easy/MajorityElement.java)                     |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                   | Easy       | Linked List              | [`MergeTwoSortedLists.java`](easy/MergeTwoSortedLists.java)            |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                         | Easy       | Linked List, Recursion     | [`ReverseLinkedList.java`](easy/ReverseLinkedList.java)                 |
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy       | Array, HashMap          | [`TwoSum.java`](easy/TwoSum.java)                                       |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | Easy       | Stack, String           | [`ValidParentheses.java`](easy/ValidParentheses.java)                   |
 
