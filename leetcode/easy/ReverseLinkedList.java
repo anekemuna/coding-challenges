@@ -15,17 +15,34 @@ public class ReverseLinkedList {
         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 
-    // Recursive solution
+    // Solution 1: Iterative Approach
+    // Time: O(n), Space: O(1)
+    public ListNode reverseIterative(ListNode head) {
+        ListNode prev = null, current = head;
+
+        while (current != null) {
+            ListNode next = current.next; // Store next node
+            current.next = prev;         // Reverse the pointer
+            prev = current;              // Move prev forward
+            current = next;              // Move current forward
+        }
+
+        return prev; // New head
+    }
+
+
+    // Solution 2: Recursive Approach
     // Time Complexity: O(n)
     // Space Complexity: O(n) due to recursion stack
-    public ListNode reverseList(ListNode head) {
+    public ListNode reverseRecursive(ListNode head) {
+        // Base case: empty or single-node list
         if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
-        head.next = null;
+        ListNode newHead = reverseRecursive(head.next); // Reverse rest
+        head.next.next = head;  // Reverse current node
+        head.next = null;       // Break the link
 
         return newHead;
     }
@@ -52,8 +69,16 @@ public class ReverseLinkedList {
         System.out.print("Original List: ");
         printList(list);
 
-        ListNode reversed = solver.reverseList(list);
-        System.out.print("Reversed List: ");
-        printList(reversed);
+        
+        ListNode reversedIter = solver.reverseIterative(list);
+        System.out.print("Reversed List (Iterative): ");
+        printList(reversedIter);
+
+        // Rebuild list since it was reversed
+        list = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5)))));
+
+        ListNode reversedRecur = solver.reverseRecursive(list);
+        System.out.print("Reversed List (Recursive): ");
+        printList(reversedRecur);
     }
 }
