@@ -18,6 +18,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java)                 |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)       | Easy       | Stack, Queue, Design    | [`ImplementQueueUsingStacks.java`](easy/ImplementQueueUsingStacks.java) |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                             | Easy       | Linked List, Two Pointers, HashSet | [`LinkedListCycle.java`](easy/LinkedListCycle.java)                     |
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Hash Table, Greedy, String | [`LongestPalindrome.java`](easy/LongestPalindrome.java) |
 | [Majority Element](https://leetcode.com/problems/majority-element/)                               | Easy       | Array                   | [`MajorityElement.java`](easy/MajorityElement.java)                     |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                   | Easy       | Linked List              | [`MergeTwoSortedLists.java`](easy/MergeTwoSortedLists.java)            |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | [`MiddleOfLinkedList.java`](easy/MiddleOfLinkedList.java) |
