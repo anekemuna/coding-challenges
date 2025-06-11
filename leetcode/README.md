@@ -44,6 +44,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Min Stack](https://leetcode.com/problems/min-stack/)                                             | Medium     | Stack, Design                | [`MinStack.java`](medium/MinStack.java)                                 |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)       | Medium     | Array, Prefix Sum            | [`ProductOfArrayExceptSelf.java`](medium/ProductOfArrayExceptSelf.java) |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                         | Medium     | Array, Two Pointers, Sorting | [`SortColors.java`](medium/SortColors.java)                             |
+| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String, Simulation | [`StringToIntegerAtoi.java`](medium/StringToIntegerAtoi.java) |
 | [3Sum](https://leetcode.com/problems/3sum/)                                                       | Medium     | Array, Two Pointers          | [`ThreeSum.java`](medium/ThreeSum.java)                                 |
 
 ---
