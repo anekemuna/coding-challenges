@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Tags: Tree, Depth-First Search, Binary Tree, Recursion
 
-public class IsBalancedBinaryTree {
+public class BalancedBinaryTree {
 
     // Definition for a binary tree node.
     static class TreeNode {
@@ -48,7 +48,7 @@ public class IsBalancedBinaryTree {
 
     // Sample Test
     public static void main(String[] args) {
-        IsBalancedBinaryTree solution = new IsBalancedBinaryTree();
+        BalancedBinaryTree solution = new BalancedBinaryTree();
 
         // Balanced tree: [1,2,3,4,5]
         TreeNode balanced = new TreeNode(1,
