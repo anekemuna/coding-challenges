@@ -17,6 +17,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree, Recursion | [`BalancedBinaryTree.java`](easy/BalancedBinaryTree.java) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | Array, Greedy           | [`BestTimeToBuyAndSellStock.java`](easy/BestTimeToBuyAndSellStock.java) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java)                 |
+| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [`DiameterOfBinaryTree.java`](easy/DiameterOfBinaryTree.java) |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)       | Easy       | Stack, Queue, Design    | [`ImplementQueueUsingStacks.java`](easy/ImplementQueueUsingStacks.java) |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, DFS, BFS, Recursion | [`InvertBinaryTree.java`](easy/InvertBinaryTree.java) |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                             | Easy       | Linked List, Two Pointers, HashSet | [`LinkedListCycle.java`](easy/LinkedListCycle.java)                     |
