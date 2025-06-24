@@ -23,6 +23,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                             | Easy       | Linked List, Two Pointers, HashSet | [`LinkedListCycle.java`](easy/LinkedListCycle.java)                     |
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Hash Table, Greedy, String | [`LongestPalindrome.java`](easy/LongestPalindrome.java) |
 | [Majority Element](https://leetcode.com/problems/majority-element/)                               | Easy       | Array                   | [`MajorityElement.java`](easy/MajorityElement.java)                     |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [`MaximumDepthOfBinaryTree.java`](easy/MaximumDepthOfBinaryTree.java) |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                   | Easy       | Linked List              | [`MergeTwoSortedLists.java`](easy/MergeTwoSortedLists.java)            |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | [`MiddleOfLinkedList.java`](easy/MiddleOfLinkedList.java) |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                         | Easy       | Linked List, Recursion     | [`ReverseLinkedList.java`](easy/ReverseLinkedList.java)                 |
