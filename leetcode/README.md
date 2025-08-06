@@ -66,6 +66,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                               | Hard       | Stack, Recursion, Math, String                | [`BasicCalculator.java`](hard/BasicCalculator.java)                     |
 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)   | Hard       | Stack, Array, Monotonic Stack                 | [`LargestRectangleHistogram.java`](hard/LargestRectangleHistogram.java) |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window, Two Pointers | [`MinimumWindowSubstring.java`](hard/MinimumWindowSubstring.java) |
+| [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | Tree, String, Binary Tree, Design, DFS, BFS | [`SerializeDeserializeBinaryTree.java`](hard/SerializeDeserializeBinaryTree.java) |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                         | Hard       | Array, Two Pointers, DP, Stack                | [`TrappingRainWater.java`](hard/TrappingRainWater.java)                 |
 
 ---
