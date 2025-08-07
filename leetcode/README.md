@@ -16,6 +16,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------- | ----------------------------------------------------------------------- |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree, Recursion | [`BalancedBinaryTree.java`](easy/BalancedBinaryTree.java) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | Array, Greedy           | [`BestTimeToBuyAndSellStock.java`](easy/BestTimeToBuyAndSellStock.java) |
+| [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | [`BinarySearch.java`](easy/BinarySearch.java) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | Easy       | Array, HashSet, Sorting | [`ContainsDuplicate.java`](easy/ContainsDuplicate.java)                 |
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | [`DiameterOfBinaryTree.java`](easy/DiameterOfBinaryTree.java) |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)       | Easy       | Stack, Queue, Design    | [`ImplementQueueUsingStacks.java`](easy/ImplementQueueUsingStacks.java) |
