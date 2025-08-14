@@ -59,6 +59,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                         | Medium     | Array, Two Pointers, Sorting | [`SortColors.java`](medium/SortColors.java)                             |
 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String, Simulation | [`StringToIntegerAtoi.java`](medium/StringToIntegerAtoi.java) |
 | [3Sum](https://leetcode.com/problems/3sum/)                                                       | Medium     | Array, Two Pointers          | [`ThreeSum.java`](medium/ThreeSum.java)                                 |
+| [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | HashMap, TreeMap, Design, Binary Search | [TimeBasedKeyValueStore.java](medium/TimeBasedKeyValueStore.java) |
 
 ---
 
