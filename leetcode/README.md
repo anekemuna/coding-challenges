@@ -14,6 +14,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 
 | Problem                                                                                           | Difficulty | Tags                    | Solution File                                                           |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------- | ----------------------------------------------------------------------- |
+| [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math, String, Simulation, Bit Manipulation | [`AddBinary.java`](easy/AddBinary.java) |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree, Recursion | [`BalancedBinaryTree.java`](easy/BalancedBinaryTree.java) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | Array, Greedy           | [`BestTimeToBuyAndSellStock.java`](easy/BestTimeToBuyAndSellStock.java) |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | [`BinarySearch.java`](easy/BinarySearch.java) |
