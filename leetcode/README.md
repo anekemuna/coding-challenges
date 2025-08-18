@@ -31,6 +31,7 @@ Each folder contains Java solution files for problems categorized by difficulty.
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | [`MiddleOfLinkedList.java`](easy/MiddleOfLinkedList.java) |
 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | [`RansomNote.java`](easy/RansomNote.java) |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                         | Easy       | Linked List, Recursion     | [`ReverseLinkedList.java`](easy/ReverseLinkedList.java)                 |
+| [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Binary Tree, DFS | [`SameTree.java`](easy/SameTree.java) |
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy       | Array, HashMap          | [`TwoSum.java`](easy/TwoSum.java)                                       |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                           | Easy       | HashMap, Sorting, Array     | [`ValidAnagram.java`](easy/ValidAnagram.java)                     |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | Easy       | String, Two Pointers        | [`ValidPalindrome.java`](easy/ValidPalindrome.java)                     |
